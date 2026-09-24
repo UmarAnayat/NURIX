@@ -105,11 +105,11 @@ Cheat meal and avatar space
 ### Interface
 
 <p align="center">
-  <img src="screenshots/01.png" width="240" alt="Screen 01"/>
+  <img src="screenshots/screenshot1.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="screenshots/02.png" width="240" alt="Screen 02"/>
+  <img src="screenshots/screenshot2.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="screenshots/03.png" width="240" alt="Screen 03"/>
+  <img src="screenshots/screenshot3.png" width="240" alt="Screen 03"/>
 </p>
 
 <p align="center">
