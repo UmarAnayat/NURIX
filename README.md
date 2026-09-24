@@ -105,11 +105,21 @@ Cheat meal and avatar space
 ### Interface
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="240" alt="Screen 01"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/screenshot2.png" width="240" alt="Screen 02"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/screenshot3.png" width="240" alt="Screen 03"/>
+
+<img src="./screenshots/screenshot1.png" width="240" alt="NURIX Home Screen"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="./screenshots/screenshot2.png" width="240" alt="NURIX AI Assistant"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="./screenshots/screenshot3.png" width="240" alt="NURIX Nutrition Screen"/>
+
+</p>
+
+<p align="center">
+  <sub>Designed for calm and clarity — premium UI captures</sub>
 </p>
 
 <p align="center">
