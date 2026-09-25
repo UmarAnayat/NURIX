@@ -105,17 +105,11 @@ Cheat meal and avatar space
 ### Interface
 
 <p align="center">
-
-<img src="./screenshots/screenshot1.png" width="240" alt="NURIX Home Screen"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="./screenshots/screenshot2.png" width="240" alt="NURIX AI Assistant"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="./screenshots/screenshot3.png" width="240" alt="NURIX Nutrition Screen"/>
-
+  <img src="https://raw.githubusercontent.com/UmarAnayat/Neural-OS/main/screenshots/screenshots%3A01.png" width="240" alt="Screen 01"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/UmarAnayat/Neural-OS/main/screenshots/screenshots%3A02.png" width="240" alt="Screen 02"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/UmarAnayat/Neural-OS/main/screenshots/screenshots%3A03.png" width="240" alt="Screen 03"/>
 </p>
 
 <p align="center">
