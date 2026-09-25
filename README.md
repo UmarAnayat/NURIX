@@ -105,15 +105,11 @@ Cheat meal and avatar space
 ### Interface
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UmarAnayat/Soul_Readings/main/screenshots/screenshot1.png" width="180" alt="NURIX Screen 1"/>
+  <img src="./screenshots/screenshot1.png" width="240" alt="NURIX Home Screen"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/UmarAnayat/Soul_Readings/main/screenshots/screenshot2.png" width="180" alt="NURIX Screen 2"/>
+  <img src="./screenshots/screenshot2.png" width="240" alt="NURIX AI Assistant"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/UmarAnayat/Soul_Readings/main/screenshots/screenshot3.png" width="180" alt="NURIX Screen 3"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/UmarAnayat/Soul_Readings/main/screenshots/screenshot4.png" width="180" alt="NURIX Screen 4"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/UmarAnayat/Soul_Readings/main/screenshots/screenshot5.png" width="180" alt="NURIX Screen 5"/>
+  <img src="./screenshots/screenshot3.png" width="240" alt="NURIX Nutrition Screen"/>
 </p>
 
 <p align="center">
